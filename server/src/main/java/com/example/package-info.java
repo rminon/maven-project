@@ -1,4 +1,4 @@
 /**
-* This is a package nate
+* This is a package name.
 */
 package com.example;
